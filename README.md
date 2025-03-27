@@ -77,9 +77,7 @@
 ---
 
 **Let's Connect!** 🤝
-- 📧 [Your Email]
-- 🔗 [LinkedIn Profile]
-- 🐦 [Twitter Handle]
+- 📧 [ashutoshacharya908@gmail.com]
 
 
 
