@@ -14,8 +14,14 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
-### 🗄️ Databases
+### 🗄️ Databases & Data Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### 🧠 Machine Learning & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -25,26 +31,38 @@
 
 ## 🚀 Projects & Expertise
 
+### Database Management Capabilities
+- **Relational Databases:**
+  - PostgreSQL, MySQL, SQLite, Microsoft SQL Server
+  - Advanced query optimization
+  - Complex database design and schema management
+
+- **NoSQL & Distributed Databases:**
+  - MongoDB for flexible document storage
+  - Redis for caching and real-time data management
+  - Firebase for real-time applications and cloud storage
+
 ### Social Media App
 - **Full Stack Development**
-- Integrating multiple technologies across Django, React, Node.js, and Spring Boot
-- Advanced backend architecture
+- Multi-database integration
+- Scalable backend architecture
 - Machine learning-powered features
 
 ### 🧩 Coding & Problem Solving
 - **LeetCode Enthusiast**
-- Regular algorithm and data structure challenges
+- Database query and optimization challenges
 - Continuous skill improvement
 
 ### 🖥️ Specialized Skills
+- Cross-database data migration
+- Performance tuning
 - Image Processing with MobileNetV2
 - Deep Learning Model Implementation
-- Cross-platform Web Development
-- Machine Learning Pipeline Design
 
 ## 🎮 Interests
 - Web Development
 - Machine Learning
+- Database Technologies
 - E-sports Gaming
 - Algorithmic Problem Solving
 
@@ -54,12 +72,15 @@
 ## 🏆 Achievements
 - Full Stack Web Development
 - Machine Learning Specialist
+- Multi-Database Management
 - Algorithm Problem Solver
 
 ---
 
 **Let's Connect!** 🤝
-- 📧 [ ashutoshacharya908@gmail.com ]
+- 📧 [Your Email]
+- 🔗 [LinkedIn Profile]
+- 🐦 [Twitter Handle]
 
 
 
