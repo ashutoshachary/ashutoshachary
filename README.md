@@ -66,8 +66,7 @@
 - E-sports Gaming
 - Algorithmic Problem Solving
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
 
 ## 🏆 Achievements
 - Full Stack Web Development
