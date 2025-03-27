@@ -1,7 +1,66 @@
 ### Hi there 👋
 
 # 💫 About Me:
-i am currently working on a project called social media app<br>i am Full stack Web Developer<br>(Know Full stack in Django , JSP , React, Node , Express)<br>i love to play E-sport games<br>also solve LeetCode Problems
+# 👋 Full Stack Developer | Machine Learning Enthusiast
+
+## 🛠 Tech Stack
+
+### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧠 Machine Learning & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+## 🚀 Projects & Expertise
+
+### Social Media App
+- **Full Stack Development**
+- Integrating multiple technologies across Django, React, Node.js, and Spring Boot
+- Advanced backend architecture
+- Machine learning-powered features
+
+### 🧩 Coding & Problem Solving
+- **LeetCode Enthusiast**
+- Regular algorithm and data structure challenges
+- Continuous skill improvement
+
+### 🖥️ Specialized Skills
+- Image Processing with MobileNetV2
+- Deep Learning Model Implementation
+- Cross-platform Web Development
+- Machine Learning Pipeline Design
+
+## 🎮 Interests
+- Web Development
+- Machine Learning
+- E-sports Gaming
+- Algorithmic Problem Solving
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+## 🏆 Achievements
+- Full Stack Web Development
+- Machine Learning Specialist
+- Algorithm Problem Solver
+
+---
+
+**Let's Connect!** 🤝
+- 📧 [ ashutoshacharya908@gmail.com ]
+
 
 
 ## 🌐 Socials:
